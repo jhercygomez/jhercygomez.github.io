@@ -1,0 +1,134 @@
+body 
+{
+	background-image: url('bg.jpg');
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: cover;
+  	margin: 0	;
+}
+
+h1
+{
+	font-family: Agency FB;
+	font-size: 100px;
+	color: white;
+	text-align: center;
+	padding: 320px;
+	background-color: #1c232cba; 
+}
+
+h2
+{
+	font-family: Agency FB;
+	font-size: 50px;
+	color: white;
+	text-align: center;
+	padding-top: 90px;
+}
+
+.navbar 
+{
+  overflow: hidden;
+  position: fixed; 
+  top: 0; 
+  width: 100%;
+  background-color: #1c232cba;
+}
+
+.navbar a 
+{
+  float: right;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: SimSun-ExtB;
+  font-size: 25px;
+}
+
+.navbar a:hover 
+{
+  background: #ddd;
+  color: black;
+}
+
+.active
+{
+	background: #ddd;
+	color: black;
+}
+
+.image1
+{
+	height: 200px;
+	width: 200px;
+	padding: 20px;
+	float: left;
+}
+.social
+{
+	height: 50px;
+	width: 50px;
+	padding: 10px;
+
+}
+
+.container
+{
+	text-align: center;
+}
+
+.image2
+{
+	height: 320px;
+	width: 440px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: 100px;
+  	float: right;
+
+}		
+
+.image3
+{
+	float: left;
+}
+
+#basic
+{
+	display: inline-block;
+	font-family: Century Gothic;
+	font-size: 25px;
+	color: white;
+	text-align: left;
+	padding: 10px;
+}
+
+#bg
+{
+	display: inline-block;
+	font-family: Century Gothic;
+	font-size: 25px;
+	color: white;
+	text-align: left;
+	padding: 50px;
+}
+
+#int
+{
+	display: inline-block;
+	font-family: Century Gothic;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
+
+.in
+{
+	height: 300px;
+	width: 300px;
+	padding: 30px;
+
+}
